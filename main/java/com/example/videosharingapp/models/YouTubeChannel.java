@@ -1,3 +1,9 @@
+/**
+ * Author: Nathan Addison
+ * For BIT603 Assessment 3
+ */
+
+
 package com.example.videosharingapp.models;
 
 import com.google.gson.annotations.SerializedName;
