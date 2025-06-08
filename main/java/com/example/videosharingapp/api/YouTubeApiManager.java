@@ -30,7 +30,7 @@ public class YouTubeApiManager {
 
     private static final String TAG = "YouTubeApiManager";
     // Replace with your actual YouTube Data API v3 key
-    private static final String API_KEY = "AIzaSyD7vRP97tLV6-lPkuFual3yibI6hNIqOcw";
+    private static final String API_KEY = "";
 
     private YouTubeApiService apiService;
 
